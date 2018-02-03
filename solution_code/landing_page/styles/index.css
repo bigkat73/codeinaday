@@ -39,6 +39,11 @@ nav ul li:hover{
 	font-weight: 800;
 }
 
+nav ul li a{
+	text-decoration: none;
+	color: white;
+}
+
 .splash-image{
 	height: 450px;
 	background-image: url(../images/header.jpg);
