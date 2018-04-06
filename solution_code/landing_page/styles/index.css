@@ -101,3 +101,18 @@ ul.more-links li:hover{
 	color: white;
 	background-color: #A9A9A9;
 }
+
+@media screen and (max-width: 580px){
+	nav{
+		margin: 0;
+		height: 260px;
+	}
+	nav ul{
+		padding-left: 0;
+	}
+	nav ul li{
+		width: 100%;
+		border-bottom: dotted 1px white;
+		text-align: center;
+	}
+}
